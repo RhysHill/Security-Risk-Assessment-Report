@@ -4,7 +4,6 @@
 ## 📝 Project Overview
 In this project, I stepped into the role of a cybersecurity analyst at a social media organisation that had just experienced a major data breach. The goal was to assess the organisation’s network security, identify key vulnerabilities, and recommend practical hardening methods to prevent future incidents.
 
-This activity is part of the **Google Cybersecurity Professional Certificate** on Coursera and focuses on applying real-world security practices—analysing threats, making clear recommendations, and communicating findings effectively, just as expected in a professional setting.
 
 ## 🛠️ Key Skills Demonstrated
 - **Risk Assessment** – Evaluating the organisation’s security posture and prioritising key risks.  
